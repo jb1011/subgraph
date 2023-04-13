@@ -2,6 +2,6 @@
 
 ### Subgraph Endpoint 
 
-Synced at: https://thegraph.com/hosted-service/subgraph/archmage-finance/uniswap-v3
+Synced at: https://thegraph.com/hosted-service/subgraph/jb1011/newtest
 
 Pending Changes at same URL
